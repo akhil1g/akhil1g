@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Akhil Gupta</h1>
 <h1 align="center"> MNNIT ECE Pre-Final Year</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil1g&label=Profile%20views&color=0e75b6&style=flat" alt="akhil1g" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil1g" alt="akhil1g" /></a> </p>
+
 
 - 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akhil1g?tab=repositories](https://github.com/akhil1g?tab=repositories)
 
 - 📄 Resume Link : [https://drive.google.com/file/d/1z3apVh4cAWviS7K6H8TtHO9H3kRVOETs/view?usp=sharing](https://drive.google.com/file/d/1z3apVh4cAWviS7K6H8TtHO9H3kRVOETs/view?usp=sharing)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akhil-g-131923136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-g-131923136" height="30" width="40" /></a>
@@ -28,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil1g&show_icons=true&locale=en&layout=compact" alt="akhil1g" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil1g&show_icons=true&locale=en" alt="akhil1g" /></p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

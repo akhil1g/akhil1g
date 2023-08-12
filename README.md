@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![](https://leetcard.jacoblin.cool/akhilg11?ext=contest&width=800&border=0&radius=20&height=450)
 <br>
-
+[![Badge](https://cp-logo.vercel.app/codechef/beinggojo)]
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil1g&show_icons=true&locale=en&layout=compact" alt="akhil1g" /></p>
 

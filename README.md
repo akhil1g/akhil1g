@@ -1,3 +1,4 @@
+[![An image of @akhil1g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhil1g)](https://holopin.io/@akhil1g)
 <h1 align="center">Hi 👋, I'm Akhil Gupta</h1>
 <h1 align="center"> MNNIT ECE Pre-Final Year</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

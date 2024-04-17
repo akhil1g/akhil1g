@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![](https://leetcard.jacoblin.cool/akhilg11?ext=contest&width=800&border=0&radius=20&height=450)
 <br>
-[![Badge](https://cp-logo.vercel.app/codechef/beinggojo)]<br><br>
+![](https://cp-logo.vercel.app/codechef/beinggojo)<br><br>
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=akhilg11) <!-- codeforces --><br>
 
 <img src="https://atrating.baoshuo.dev/rating?username=akhilg11"> <!-- atcoder -->

@@ -8,11 +8,11 @@
 
 
 
-- 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB**
+- 🌱 I’m currently learning **Nodejs, Expressjs, Reactjs, MongoDB, Solidity, Hardhat**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akhil1g?tab=repositories](https://github.com/akhil1g?tab=repositories)
 
-- 📄 Resume Link : [https://drive.google.com/file/d/1z3apVh4cAWviS7K6H8TtHO9H3kRVOETs/view?usp=sharing](https://drive.google.com/file/d/1z3apVh4cAWviS7K6H8TtHO9H3kRVOETs/view?usp=sharing)
+- 📄 Resume Link : [https://drive.google.com/file/d/1X5nLKdmqQzsZpuiNvyxSueH3YvDV8jiH/view?usp=drive_link](https://drive.google.com/file/d/1X5nLKdmqQzsZpuiNvyxSueH3YvDV8jiH/view?usp=drive_link)
 
 - 💼 Portfolio Link : [https://portfolio-akhil-gupta.vercel.app/](https://portfolio-akhil-gupta.vercel.app/)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

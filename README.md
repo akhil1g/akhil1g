@@ -37,7 +37,21 @@
 
 <img src="https://atrating.baoshuo.dev/rating?username=akhilg11"> <!-- atcoder -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil1g&show_icons=true&locale=en&layout=compact" alt="akhil1g" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil1g&show_icons=true&locale=en" alt="akhil1g" /></p>
+<table>
+    <td align="center">
+        <a href="https://github.com/akhil1g"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=akhil1g&show_icons=true&locale=en&theme=codeSTACKr" /></a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/akhil1g"><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil1g&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" /></a>
+    </td>
+</table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akhil1g&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<br>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil1g&show_icons=true&locale=en&layout=compact" alt="akhil1g" /></p> -->
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akhil1g&show_icons=true&locale=en" alt="akhil1g" /></p> -->
+<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</div>
+

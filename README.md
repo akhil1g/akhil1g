@@ -1,6 +1,6 @@
 [![an image of banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Akhil Gupta</h1>
-<h1 align="center"> MNNIT ECE Pre-Final Year</h1>
+<h1 align="center"> MNNIT ECE Final Year</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate web developer and programmer from India</h3>
 
